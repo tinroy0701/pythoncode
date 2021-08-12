@@ -1,2 +1,2 @@
 # pythoncode
-30daysofcode python hackerran
+30daysofcode python hackerrank
